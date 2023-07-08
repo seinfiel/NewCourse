@@ -13,6 +13,9 @@ public class App
 	}
     public static void main( String[] args )
     {
+    	//bug fixed 101
+    	int i = 10;
+    	int j = 20;
         System.out.println( "Hello World!" );
         System.out.println("Hii Reddy");
     }
